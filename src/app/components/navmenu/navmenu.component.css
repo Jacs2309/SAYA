@@ -1,0 +1,26 @@
+.menu{
+	width: 100%;
+	height: 50%;
+	background-color: rgb(64, 0, 128);
+	border-bottom: solid 1px rgb(0, 0, 0);
+	-webkit-text-fill-color: white;
+}
+
+.lista{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	align-items: center;
+	align-content: center;
+	justify-content: space-between;
+	vertical-align: middle;
+	-webkit-text-fill-color: white;
+
+}
+.lista li{
+	font-weight: 600;
+	padding: 15px;
+	text-align: center;
+	align-items: center;
+	align-content: center;
+}

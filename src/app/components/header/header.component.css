@@ -1,0 +1,28 @@
+.header{
+	width: 100%;
+	height: 60px;
+	background-color: rgb(64, 0, 128);
+	border-bottom: solid 1px rgb(0, 0, 0);
+	-webkit-text-fill-color: white;
+	
+}
+
+.menu{
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	list-style: none;
+	align-items: center;
+	align-content: center;
+	justify-content: space-between;
+}
+.logo{
+	height: 2rem;
+}
+.menu li{
+	font-weight: 600;
+	padding: 3px;
+	text-align: center;
+	align-items: center;
+	align-content: center;
+} 
